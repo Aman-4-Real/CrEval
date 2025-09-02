@@ -98,8 +98,20 @@ pip install -r requirements.txt
 
 ### Inference
 
+You can use our CrEval model via the inference methods provided by LlamaFactory.
 
+After downloading the ckpt <a href="https://huggingface.co/Aman/CrEval-7b">CrEval-7b</a> or <a href="https://huggingface.co/Aman/CrEval-14b">CrEval-14b</a> , start the API server using the provided configuration file [creval_api.yaml](https://github.com/Aman-4-Real/CrEval/blob/main/creval_api.yaml). Make sure to update the `YOUR_PATH` fields in the config as needed:
 
+```
+API_PORT=8000 CUDA_VISIBLE_DEVICES=0 llamafactory-cli api creval_api.yaml
+```
+
+Run an interactive test using the script [inference.py](https://github.com/Aman-4-Real/CrEval/blob/main/inference.py):
+
+```
+python inference.py
+```
+> Once the server is running, the script will allow you to interactively test the CrEval model in your CLI.
 
 
 <hr>

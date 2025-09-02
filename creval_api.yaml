@@ -1,0 +1,4 @@
+model_name_or_path: YOUR_PATH/Qwen2.5-7B-Instruct
+adapter_name_or_path: YOUR_PATH/CrEval-7b
+template: qwen
+finetuning_type: lora

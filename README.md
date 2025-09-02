@@ -121,6 +121,8 @@ python inference.py
 
 <span id='cite'/>
 
+## 🌟 Cite
+
 <h2> Please cite our paper if you find our work useful. </h2>
 
 ```

@@ -65,7 +65,7 @@ Experimental results underscore the indispensable significance of integrating bo
 </p>
 <p align="center">
   <img src="figs/flowchart.png" width="800"><br/>
-  Figure 1. An example of how to formulate the problem of text creativity evaluation to evaluate better.
+  Figure 2. The construction process of CreataSet and training process of CrEval.
 </p>
 
 

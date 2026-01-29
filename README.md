@@ -24,6 +24,7 @@
 
 <div class="scrollable">
     <ul>
+      <li><strong>[2026, Jan 06]</strong>: &nbsp;🎉🎉Our paper is accepted by ICLR 2026!</li>
       <li><strong>[2025, Sep 01]</strong>: &nbsp;🎉🎉We release the dataset <a href="https://huggingface.co/datasets/Aman/CreataSet">CreataSet</a> and out creativity evaluation model <a href="https://huggingface.co/Aman/CrEval-7b">CrEval-7b</a> & <a href="https://huggingface.co/Aman/CrEval-14b">CrEval-14b</a>. Feel free to use!</li>
       <li><strong>[2025, May 25]</strong>: &nbsp;🎉🎉Our <a href="https://arxiv.org/pdf/2505.19236">arXiv paper</a> is available! Check it out for more details.</li>
     </ul>
